@@ -514,6 +514,7 @@ body {
 #Donate-Section p{
     text-align: center;
     padding: 30px;
+    color: gray;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
 .Donate{
@@ -587,4 +588,46 @@ form{
 .Donate-Other input{
     width: 800px;
     height: 50px;
+}
+#Subscribe{
+    margin: 80px 160px;
+    height: 450px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.Subscribe-Content{
+    height: 300px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Subscribe-Content p{
+    text-align: justify;
+    text-align: center;
+    padding: 20px 30px;
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Subscribe-TextButton{
+    display: flex;
+}
+.Subscribe-TextButton input{
+    width: 500px;
+    height: 50px;
+    border: none;
+}
+.Subscribe-TextButton button{
+    height: 50px;
+    width: 120px;
+    border: none;
+    font-size: 17px;
+    color: white;
+    background-color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
