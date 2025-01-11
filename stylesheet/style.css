@@ -249,6 +249,7 @@ body {
     background-color: coral;
     color: white;
     border-radius: 5px;
+    border: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
 
@@ -285,6 +286,7 @@ body {
     background-color: limegreen;
     color: white;
     border-radius: 5px;
+    border: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
 
@@ -321,6 +323,7 @@ body {
     background-color: deepskyblue;
     color: white;
     border-radius: 5px;
+    border: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
 
