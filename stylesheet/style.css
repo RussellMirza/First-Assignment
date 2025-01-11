@@ -45,6 +45,7 @@ body {
     font-size: 25px;
     padding-top: 30px;
     padding-left: 80px;
+    color: gray;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
 
@@ -458,7 +459,41 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
 #News-Section{
+    height: 600px;
+    margin: 100px 160px;
+}
+#News-Section p{
+    margin-top: 10px;
+    padding-right: 50px;
+    color: gray;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.News-Satellite{
     height: 400px;
-    background-color: aqua;
-    margin: 0px 160px;
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+.News-Satellite-border{
+    height: 300px;
+    padding: 50px 50px;
+    display: flex;
+    align-items: center;
+}
+.News-Satellite-img{
+    width: 30%;
+}
+.News-Satellite-img img{
+    border-radius: 10px;
+}
+.News-Satellite-Content{
+    width: 70%;
+}
+.News-Satellite-Content img{
+    margin-top: 15px;
+}
+.News-Satellite-Content button{
+    margin-top: 30px;
+    padding: 10px 20px;
 }
