@@ -215,7 +215,7 @@ body {
 .Vision-Digital{
     height: 400px;
     width: 32%;
-    background-color: beige;
+    background-color: bisque;
     margin-top: 30px;
     border-radius: 10px;
 }
@@ -238,8 +238,9 @@ body {
     margin-top: 20px;
     margin-left: 20px;
     padding: 10px 20px;
-    font-size: 15px;
-    background-color: aquamarine;
+    font-size: 17px;
+    background-color: coral;
+    color: white;
     border-radius: 5px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
@@ -269,15 +270,16 @@ body {
     margin-top: 20px;
     margin-left: 20px;
     padding: 10px 20px;
-    font-size: 15px;
-    background-color: aquamarine;
+    font-size: 17px;
+    background-color: limegreen;
+    color: white;
     border-radius: 5px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
 .Vision-Modern{
     height: 400px;
     width: 32%;
-    background-color: lightskyblue;
+    background-color: aquamarine;
     margin-top: 30px;
     border-radius: 10px;
 }
@@ -300,8 +302,155 @@ body {
     margin-top: 20px;
     margin-left: 20px;
     padding: 10px 20px;
-    font-size: 15px;
-    background-color: aquamarine;
+    font-size: 17px;
+    background-color: deepskyblue;
+    color: white;
     border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+#Quotation-Section{
+    height: 230px;
+    background-color: white;
+    border: 1px solid silver;
+    border-radius: 10px;
+    margin: 20px 160px;
+    padding: 20px;  
+}
+.Quotation-Content{
+    height: 200px;
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+}
+.Quotation-Content p{
+    padding: 28px 0px 0px 0px;
+    text-align: justify;
+    color: darkolivegreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Quotation-Content h3{
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Quotation-Content .Yunus-intro{
+    padding-top: 5px;
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+#Opinion-Section{
+    height: 350px;
+    margin: 50px 160px;
+    border-radius: 10px;
+}
+#Opinion-Section .Caption{
+    margin-bottom: 20px;
+}
+.Opinion-Content{
+    height: 200px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.Opinion-Header{
+    height: 70px;
+    background-color: lightgreen;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px;
+    align-items: center;
+}
+.Opinion-First{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Opinion-First-Comment{
+    height: 70px;
+    width: 90%;
+    padding: 0px 20px;
+    border: 1px solid silver;
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Opinion-First-Button{
+    height: 70px;
+    width: 10%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 0px 20px;
+    border: 1px solid silver;
+}
+.Opinion-First-Button Button{
+    padding: 10px 20px;
+    background-color: lightgreen;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Opinion-Second{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Opinion-Second-Comment{
+    height: 70px;
+    width: 90%;
+    padding: 0px 20px;
+    border: 1px solid silver;
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Opinion-Second-Button{
+    height: 70px;
+    width: 10%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 0px 20px;
+    border: 1px solid silver;
+}
+.Opinion-Second-Button Button{
+    padding: 10px 20px;
+    background-color: lightgreen;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Opinion-Third{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Opinion-Third-Comment{
+    height: 70px;
+    width: 90%;
+    padding: 0px 20px;
+    border: 1px solid silver;
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Opinion-Third-Button{
+    height: 70px;
+    width: 10%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 0px 20px;
+    border: 1px solid silver;
+}
+.Opinion-Third-Button Button{
+    padding: 10px 20px;
+    background-color: lightgreen;
+    border-radius: 5px;
+    font-size: 17px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
