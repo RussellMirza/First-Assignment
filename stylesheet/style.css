@@ -95,7 +95,7 @@ body {
     height: 250px;
     width: 23%;
     background-color: white;
-    border: 1px solid gray;
+    border: 1px solid silver;
     border-radius: 10px;
 }
 
@@ -122,7 +122,7 @@ body {
     height: 250px;
     width: 23%;
     background-color: white;
-    border: 1px solid gray;
+    border: 1px solid silver;
     border-radius: 10px;
 }
 
@@ -149,7 +149,7 @@ body {
     height: 250px;
     width: 23%;
     background-color: white;
-    border: 1px solid gray;
+    border: 1px solid silver;
     border-radius: 10px;
 }
 
@@ -176,7 +176,7 @@ body {
     height: 250px;
     width: 23%;
     background-color: white;
-    border: 1px solid gray;
+    border: 1px solid silver;
     border-radius: 10px;
 }
 
@@ -204,16 +204,19 @@ body {
     margin: 0px 160px;
     border-radius: 10px;
 }
+
 #Vision-Section p {
     margin-top: 20px;
     padding-right: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Vision{
+
+.Vision {
     display: flex;
     justify-content: space-between;
 }
-.Vision-Digital{
+
+.Vision-Digital {
     height: 400px;
     width: 32%;
     background-color: bisque;
@@ -221,21 +224,24 @@ body {
     border-radius: 10px;
 }
 
-.Vision-Digital img{
+.Vision-Digital img {
     margin-top: 40px;
     margin-left: 20px;
 }
-.Vision-Digital h3{
+
+.Vision-Digital h3 {
     margin-top: 20px;
     margin-left: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Vision-Digital p{
+
+.Vision-Digital p {
     margin-left: 20px;
     text-align: justify;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Vision-Digital button{
+
+.Vision-Digital button {
     margin-top: 20px;
     margin-left: 20px;
     padding: 10px 20px;
@@ -245,7 +251,8 @@ body {
     border-radius: 5px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Vision-Energy{
+
+.Vision-Energy {
     height: 400px;
     width: 32%;
     background-color: lightgreen;
@@ -253,21 +260,24 @@ body {
     border-radius: 10px;
 }
 
-.Vision-Energy img{
+.Vision-Energy img {
     margin-top: 40px;
     margin-left: 20px;
 }
-.Vision-Energy h3{
+
+.Vision-Energy h3 {
     margin-top: 20px;
     margin-left: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Vision-Energy p{
+
+.Vision-Energy p {
     margin-left: 20px;
     text-align: justify;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Vision-Energy button{
+
+.Vision-Energy button {
     margin-top: 20px;
     margin-left: 20px;
     padding: 10px 20px;
@@ -277,7 +287,8 @@ body {
     border-radius: 5px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Vision-Modern{
+
+.Vision-Modern {
     height: 400px;
     width: 32%;
     background-color: aquamarine;
@@ -285,21 +296,24 @@ body {
     border-radius: 10px;
 }
 
-.Vision-Modern img{
+.Vision-Modern img {
     margin-top: 40px;
     margin-left: 20px;
 }
-.Vision-Modern h3{
+
+.Vision-Modern h3 {
     margin-top: 20px;
     margin-left: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Vision-Modern p{
+
+.Vision-Modern p {
     margin-left: 20px;
     text-align: justify;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Vision-Modern button{
+
+.Vision-Modern button {
     margin-top: 20px;
     margin-left: 20px;
     padding: 10px 20px;
@@ -309,49 +323,58 @@ body {
     border-radius: 5px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-#Quotation-Section{
+
+#Quotation-Section {
     height: 230px;
     background-color: white;
     border: 1px solid silver;
     border-radius: 10px;
     margin: 20px 160px;
-    padding: 20px;  
+    padding: 20px;
 }
-.Quotation-Content{
+
+.Quotation-Content {
     height: 200px;
     background-image: url(../assets/quote-bg.png);
     background-repeat: no-repeat;
 }
-.Quotation-Content p{
+
+.Quotation-Content p {
     padding: 28px 0px 0px 0px;
     text-align: justify;
     color: darkolivegreen;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Quotation-Content h3{
+
+.Quotation-Content h3 {
     margin-top: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Quotation-Content .Yunus-intro{
+
+.Quotation-Content .Yunus-intro {
     padding-top: 5px;
     color: gray;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-#Opinion-Section{
+
+#Opinion-Section {
     height: 350px;
     margin: 50px 160px;
     border-radius: 10px;
 }
-#Opinion-Section .Caption{
+
+#Opinion-Section .Caption {
     margin-bottom: 20px;
 }
-.Opinion-Content{
+
+.Opinion-Content {
     height: 280px;
     background-color: white;
     padding: 20px;
     border-radius: 10px;
 }
-.Opinion-Header{
+
+.Opinion-Header {
     height: 70px;
     background-color: lightgreen;
     display: flex;
@@ -359,16 +382,19 @@ body {
     padding: 0px 20px;
     align-items: center;
 }
-.Opinion-Header h3{
+
+.Opinion-Header h3 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Opinion-First{
+
+.Opinion-First {
     height: 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.Opinion-First-Comment{
+
+.Opinion-First-Comment {
     height: 70px;
     width: 90%;
     padding: 0px 20px;
@@ -378,7 +404,8 @@ body {
     font-size: 17px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Opinion-First-Button{
+
+.Opinion-First-Button {
     height: 70px;
     width: 10%;
     display: flex;
@@ -387,20 +414,23 @@ body {
     padding: 0px 20px;
     border: 1px solid silver;
 }
-.Opinion-First-Button Button{
+
+.Opinion-First-Button Button {
     padding: 10px 20px;
     background-color: lightgreen;
     border-radius: 5px;
     font-size: 17px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Opinion-Second{
+
+.Opinion-Second {
     height: 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.Opinion-Second-Comment{
+
+.Opinion-Second-Comment {
     height: 70px;
     width: 90%;
     padding: 0px 20px;
@@ -410,7 +440,8 @@ body {
     font-size: 17px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Opinion-Second-Button{
+
+.Opinion-Second-Button {
     height: 70px;
     width: 10%;
     display: flex;
@@ -419,20 +450,23 @@ body {
     padding: 0px 20px;
     border: 1px solid silver;
 }
-.Opinion-Second-Button Button{
+
+.Opinion-Second-Button Button {
     padding: 10px 20px;
     background-color: lightgreen;
     border-radius: 5px;
     font-size: 17px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Opinion-Third{
+
+.Opinion-Third {
     height: 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.Opinion-Third-Comment{
+
+.Opinion-Third-Comment {
     height: 70px;
     width: 90%;
     padding: 0px 20px;
@@ -442,7 +476,8 @@ body {
     font-size: 17px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Opinion-Third-Button{
+
+.Opinion-Third-Button {
     height: 70px;
     width: 10%;
     display: flex;
@@ -451,50 +486,60 @@ body {
     padding: 0px 20px;
     border: 1px solid silver;
 }
-.Opinion-Third-Button Button{
+
+.Opinion-Third-Button Button {
     padding: 10px 20px;
     background-color: lightgreen;
     border-radius: 5px;
     font-size: 17px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-#News-Section{
+
+#News-Section {
     height: 1000px;
     margin: 100px 160px;
 }
-#News-Section p{
+
+#News-Section p {
     margin-top: 10px;
     padding-right: 50px;
     color: gray;
     text-align: justify;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.News-Satellite{
+
+.News-Satellite {
     height: 400px;
     margin-top: 30px;
     background-color: white;
     border-radius: 10px;
 }
-.News-Satellite-border{
+
+.News-Satellite-border {
     height: 300px;
     padding: 50px 50px;
     display: flex;
     align-items: center;
 }
-.News-Satellite-img{
+
+.News-Satellite-img {
     width: 30%;
 }
-.News-Satellite-img img{
+
+.News-Satellite-img img {
     border-radius: 10px;
 }
-.News-Satellite-Content{
+
+.News-Satellite-Content {
     width: 70%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.News-Satellite-Content img{
+
+.News-Satellite-Content img {
     margin-top: 15px;
 }
-.News-Satellite-Content button{
+
+.News-Satellite-Content button {
     margin-top: 30px;
     padding: 15px 25px;
     background-color: green;
@@ -504,26 +549,31 @@ body {
     border: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-#Donate-Section{
-        height: auto;
-        margin: 0px 160px;
+
+#Donate-Section {
+    height: auto;
+    margin: 0px 160px;
 }
-#Donate-Section h1{
+
+#Donate-Section h1 {
     text-align: center;
 }
-#Donate-Section p{
+
+#Donate-Section p {
     text-align: center;
     padding: 30px;
     color: gray;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Donate{
+
+.Donate {
     height: 180px;
     margin: 0px 100px;
     display: flex;
     justify-content: space-between;
 }
-.Donate-1{
+
+.Donate-1 {
     height: 180px;
     width: 23%;
     background-color: white;
@@ -533,7 +583,8 @@ body {
     justify-content: center;
     align-items: center;
 }
-.Donate-2{
+
+.Donate-2 {
     height: 180px;
     width: 23%;
     background-color: aquamarine;
@@ -543,7 +594,8 @@ body {
     justify-content: center;
     align-items: center;
 }
-.Donate-3{
+
+.Donate-3 {
     height: 180px;
     width: 23%;
     background-color: white;
@@ -553,7 +605,8 @@ body {
     justify-content: center;
     align-items: center;
 }
-.Donate-4{
+
+.Donate-4 {
     height: 180px;
     width: 23%;
     background-color: white;
@@ -563,12 +616,14 @@ body {
     justify-content: center;
     align-items: center;
 }
-form{
+
+form {
     margin: 30px 100px;
     align-items: center;
     justify-content: center;
 }
-.Donate-Other{
+
+.Donate-Other {
     margin-top: 30px;
     display: flex;
     justify-content: center;
@@ -576,7 +631,8 @@ form{
     flex-direction: column;
     gap: 30px;
 }
-.Donate-Other button{
+
+.Donate-Other button {
     padding: 15px 25px;
     background-color: green;
     color: white;
@@ -585,11 +641,13 @@ form{
     border: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Donate-Other input{
+
+.Donate-Other input {
     width: 800px;
     height: 50px;
 }
-#Subscribe{
+
+#Subscribe {
     margin: 80px 160px;
     height: 450px;
     background-color: aquamarine;
@@ -599,7 +657,8 @@ form{
     align-items: center;
     border-radius: 10px;
 }
-.Subscribe-Content{
+
+.Subscribe-Content {
     height: 300px;
     width: 800px;
     display: flex;
@@ -607,22 +666,26 @@ form{
     align-items: center;
     flex-direction: column;
 }
-.Subscribe-Content p{
+
+.Subscribe-Content p {
     text-align: justify;
     text-align: center;
     padding: 20px 30px;
     color: gray;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-.Subscribe-TextButton{
+
+.Subscribe-TextButton {
     display: flex;
 }
-.Subscribe-TextButton input{
+
+.Subscribe-TextButton input {
     width: 500px;
     height: 50px;
     border: none;
 }
-.Subscribe-TextButton button{
+
+.Subscribe-TextButton button {
     height: 50px;
     width: 120px;
     border: none;
@@ -631,7 +694,8 @@ form{
     background-color: green;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-#Footer{
+
+#Footer {
     height: 200px;
     background-color: white;
     display: flex;
@@ -639,7 +703,8 @@ form{
     flex-direction: column;
     align-items: center;
 }
-#Footer fieldset{
+
+#Footer fieldset {
     width: 300px;
     height: 100px;
     display: flex;
@@ -647,10 +712,12 @@ form{
     align-items: center;
     flex-direction: column;
 }
-#Footer legend{
+
+#Footer legend {
     font-size: 17px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
-#Footer fieldset p{
+
+#Footer fieldset p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
