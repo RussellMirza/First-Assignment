@@ -200,7 +200,108 @@ body {
 
 #Vision-Section {
     height: 560px;
-    background-color: aquamarine;
     margin: 0px 160px;
     border-radius: 10px;
+}
+#Vision-Section p {
+    margin-top: 20px;
+    padding-right: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Vision{
+    display: flex;
+    justify-content: space-between;
+}
+.Vision-Digital{
+    height: 400px;
+    width: 32%;
+    background-color: beige;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.Vision-Digital img{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.Vision-Digital h3{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Vision-Digital p{
+    margin-left: 20px;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Vision-Digital button{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Vision-Energy{
+    height: 400px;
+    width: 32%;
+    background-color: lightgreen;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.Vision-Energy img{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.Vision-Energy h3{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Vision-Energy p{
+    margin-left: 20px;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Vision-Energy button{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Vision-Modern{
+    height: 400px;
+    width: 32%;
+    background-color: lightskyblue;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.Vision-Modern img{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.Vision-Modern h3{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Vision-Modern p{
+    margin-left: 20px;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
+}
+.Vision-Modern button{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Times, serif;
 }
